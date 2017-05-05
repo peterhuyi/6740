@@ -1,1 +1,1 @@
-# 6740 code is named "project". Dataset is named "Project".
+# 6740 code is named "project". Dataset is named "train".
